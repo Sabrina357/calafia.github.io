@@ -119,7 +119,7 @@ span {
     }
 }
 @media only screen and (max-width: 600px) {
-    h2 p {
+    h2 h3 p ul{
         text-align:center;
 
     }
