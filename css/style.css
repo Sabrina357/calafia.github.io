@@ -103,3 +103,6 @@ span {
   margin:20px;
   line-height:50px;
 }
+@media screen and (max-width:320px) {
+	.ptext, p
+}
