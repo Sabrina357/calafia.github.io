@@ -35,7 +35,7 @@ h2 {
 }
 
 .pimg1{
-  background-image:url('../img/beach1.jpg');
+  background-image:url('../img/ca1.jpg');
   min-height:100%;
 }
 
@@ -102,6 +102,9 @@ h2 {
 span {
   margin:20px;
   line-height:50px;
+}
+b {
+	font-weight: 80px;
 }
 @media screen and (max-width:320px) {
 	.ptext, p, h2
