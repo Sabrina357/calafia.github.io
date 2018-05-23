@@ -38,6 +38,7 @@ h2 {
 .pimg1{
   background-image:url('../img/ca1.jpg');
   min-height:100%;
+	width:100%;
 }
 
 .pimg2{
