@@ -21,12 +21,13 @@ h2 {
   font-size:30px;
 }
 .pimg1, .pimg2, .pimg3, .pimg4 {
+	width:100%;
   position:relative;
   opacity:0.80;
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat;
-  width:100%;
+  
   /*
     fixed = parallax
     scroll = normal
