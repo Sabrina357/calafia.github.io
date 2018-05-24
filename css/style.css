@@ -139,8 +139,12 @@ b {
         text-align:center;
     }
 }
-@media only screen and (max-width: 600px) {
-	.video {
-		text-align: left;
-	}
+@media only screen (max-width: 360px){
+  iframe {
+  text-align:center;
+  margin: 0 auto;
+  max-width: 310px;
+
+  }
+
 }
