@@ -140,6 +140,6 @@ b {
 }
 @media only screen and (max-width: 600px) {
 	iframe {
-		margin-left:0px;
+		margin:0 auto;
 	}
 }
