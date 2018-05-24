@@ -34,8 +34,8 @@ ul {
 h2 {
   font-size:30px;
 }
-em {
-  font-weight:50px;
+strong {
+  font-weight:100px;
 }
 .pimg1, .pimg2, .pimg3, .pimg4 {
   width:100vw;
