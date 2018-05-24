@@ -34,6 +34,9 @@ ul {
 h2 {
   font-size:30px;
 }
+b {
+  font-weight:50px;
+}
 .pimg1, .pimg2, .pimg3, .pimg4 {
   width:100vw;
   position:relative;
