@@ -129,7 +129,7 @@ b {
 }
 @media only screen and (max-width: 600px) {
     iframe {
-        float:left;
+       
 
     }
 }
@@ -141,6 +141,6 @@ b {
 }
 @media only screen and (max-width: 600px) {
 	li {
-	float:left;
+	
 	}
 }
