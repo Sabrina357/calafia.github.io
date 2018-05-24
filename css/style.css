@@ -21,7 +21,7 @@ h2 {
   font-size:30px;
 }
 .pimg1, .pimg2, .pimg3, .pimg4 {
-	width:100%;
+  width:100vw;
   position:relative;
   opacity:0.80;
   background-position:center;
