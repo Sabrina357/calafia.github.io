@@ -25,7 +25,7 @@ h2 {
   position:relative;
   opacity:0.80;
   background-position:center;
-  background-size:cover;
+  background-size:100vw;
   background-repeat:no-repeat;
   
   /*
