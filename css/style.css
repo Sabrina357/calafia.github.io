@@ -34,7 +34,7 @@ ul {
 h2 {
   font-size:30px;
 }
-b {
+em {
   font-weight:50px;
 }
 .pimg1, .pimg2, .pimg3, .pimg4 {
@@ -130,24 +130,12 @@ b {
 @media only screen and (max-width: 600px) {
     .ptext {
         font-size:125px;
-
     }
 }
-@media only screen and (max-width: 600px) {
-    iframe {
-       margin-left:0px;
-       padding-left:0px;
 
-    }
-}
 @media only screen and (max-width: 600px) {
     h2 h3 p ul{
         text-align:center;
-
     }
 }
-@media only screen and (max-width: 600px) {
-	li {
-	
-	}
-}
+
