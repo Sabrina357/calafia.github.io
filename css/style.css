@@ -14,16 +14,16 @@ a {
   color: inherit;
 }
 a:link {
-	color:blue;
+	color:#99ccff;
 }
 a:visited {
-	color:purple;
+	color:#ff8080;
 }
 a:hover {
-	color:yellow;
+	color:#ffff99;
 }
 a:active {
-	color:red;
+	color:#99ffbb;
 }
 ul {
   list-style-type:none;
