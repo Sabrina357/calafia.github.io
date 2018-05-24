@@ -129,8 +129,9 @@ b {
 }
 @media only screen and (max-width: 600px) {
     iframe {
-        width:130;
-	position: relative;
+        text-align:center;
+  margin: 0 auto;
+  max-width: 310px;
 
     }
 }
