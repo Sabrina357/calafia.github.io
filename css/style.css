@@ -138,4 +138,8 @@ b {
         text-align:center;
     }
 }
-
+@media only screen and (max-width: 600px) {
+	iframe {
+		margin-left:0px;
+	}
+}
