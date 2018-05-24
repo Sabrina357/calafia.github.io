@@ -13,7 +13,18 @@ h3, p, li {
 a {
   color: inherit;
 }
-
+a:link {
+	color:blue;
+}
+a:visited {
+	color:purple;
+}
+a:hover {
+	color:yellow;
+}
+a:active {
+	color:red;
+}
 ul {
   list-style-type:none;
 }
