@@ -129,9 +129,7 @@ b {
 }
 @media only screen and (max-width: 600px) {
     iframe {
-        text-align:center;
-  margin: 0 auto;
-  max-width: 310px;
+        float:left;
 
     }
 }
@@ -143,6 +141,6 @@ b {
 }
 @media only screen and (max-width: 600px) {
 	li {
-	text-align:center;
+	float:left;
 	}
 }
