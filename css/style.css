@@ -49,12 +49,6 @@ h2 {
 .pimg1{
   background-image:url('../img/ca4.jpg');
   min-height:100%;
-  width:100vw;
-	left:50%;
-	right:50%;
-	margin-left:-50%;
-	margin-right: -50%;
-	
 }
 
 .pimg2{
@@ -136,6 +130,7 @@ b {
 @media only screen and (max-width: 600px) {
     iframe {
         width:130;
+	position: center;
 
     }
 }
@@ -146,7 +141,7 @@ b {
     }
 }
 @media only screen and (max-width: 600px) {
-	.pimg {
-		width:100vw;
+	li {
+	margin-right: 70%;
 	}
 }
