@@ -139,4 +139,9 @@ b {
         text-align:center;
     }
 }
-
+@media only screen and (max-width: 600px) {
+	p {
+		margin-left:0;
+		margin-right:0;
+	}
+}
