@@ -8,7 +8,7 @@ body, html{
   line-height:1.8em;
   color:#666;
 }
-h3, p, li {
+h3, p, ul {
   font-family: 'Josefin Sans', sans-serif;
   font-size:12px;
 }
